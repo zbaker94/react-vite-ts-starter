@@ -25,9 +25,9 @@ I have included `@radix-ui/react-icons` and `lucide-react` as they are reccomend
 
 - [ ] Example of using TanStack Query with Axios
 - [ ] Example Vitest Tests
+- [x] Example AutoAnimate usage
 - [ ] Example Usage of Framer Motion
 - [ ] Example Zustand usage
-- [x] Example AutoAnimate usage
 
 ###### The default README contents are below for reference:
 

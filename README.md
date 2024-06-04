@@ -8,6 +8,7 @@ The commands to get going are what you'd expect:
 
 ### Theming
 Feel free to theme however you wish. I highly reccomend using [Shadcn UI Theme Generator](https://zippystarter.com/tools/shadcn-ui-theme-generator) as a base.
+I have included an implimentation of the [theme provider](https://ui.shadcn.com/docs/dark-mode/vite) as described on the ShadCn website.
 
 ### Icons
 I have included `@radix-ui/react-icons` and `lucide-react` as they are reccomended and used by ShadCn.

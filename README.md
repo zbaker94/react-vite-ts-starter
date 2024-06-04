@@ -2,6 +2,7 @@
 This is my extension of the default Vite + TS starter app. I have included the following packages to help me get up and running quickly:
 - [ShadCN](https://ui.shadcn.com/)
 - [TanStack Query](https://tanstack.com/query/latest) (plus [DevTools](https://tanstack.com/query/latest/docs/framework/react/devtools))
+- [Axios](https://axios-http.com/docs/intro)
 - [Framer Motion](https://www.framer.com/motion/)
 - [Auto-Animate](https://auto-animate.formkit.com/)
 - [Vitest](https://vitest.dev/)
@@ -22,7 +23,7 @@ I have included `@radix-ui/react-icons` and `lucide-react` as they are reccomend
 ## TODO:
 ###### My goal is for this repo to be an example of how to use these various tools for my own reference as well as a starting point for building apps in the future.
 
-- [ ] Example of using TanStack Query
+- [ ] Example of using TanStack Query with Axios
 - [ ] Example Vitest Tests
 - [ ] Example Usage of Framer Motion
 - [ ] Example Zustand usage

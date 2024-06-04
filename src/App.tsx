@@ -23,7 +23,7 @@ function App() {
     <div ref={parent} className='flex flex-col p-4 items-center justify-center h-screen'>
       <Card className='w-1/3 mb-2'>
       <CardHeader>
-        <CardTitle>Terms And Conditions</CardTitle>
+        <CardTitle>Starter App</CardTitle>
         <CardDescription>
           This is an Example Built in React with TypeScript, ShadCn, and Vite.
         </CardDescription>

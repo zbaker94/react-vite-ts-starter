@@ -1,5 +1,11 @@
 # Starter App
-This is my extension of the default Vite + TS starter app. I have included [ShadCN](https://ui.shadcn.com/), [TanStack Query](https://tanstack.com/query/latest) (plus [DevTools](https://tanstack.com/query/latest/docs/framework/react/devtools)), and [Vitest](https://vitest.dev/).
+This is my extension of the default Vite + TS starter app. I have included the following packages to help me get up and running quickly:
+- [ShadCN](https://ui.shadcn.com/)
+- [TanStack Query](https://tanstack.com/query/latest) (plus [DevTools](https://tanstack.com/query/latest/docs/framework/react/devtools))
+- [Framer Motion](https://www.framer.com/motion/)
+- [Auto-Animate](https://auto-animate.formkit.com/)
+- [Vitest](https://vitest.dev/)
+- [Zustand](https://docs.pmnd.rs/zustand)
 
 The commands to get going are what you'd expect:
 - `npm run dev` to start the dev server
@@ -12,6 +18,15 @@ I have included an implimentation of the [theme provider](https://ui.shadcn.com/
 
 ### Icons
 I have included `@radix-ui/react-icons` and `lucide-react` as they are reccomended and used by ShadCn.
+
+## TODO:
+###### My goal is for this repo to be an example of how to use these various tools for my own reference as well as a starting point for building apps in the future.
+
+[ ] Example of using TanStack Query
+[ ] Example Vitest Tests
+[ ] Example Usage of Framer Motion
+[ ] Example Zustand usage
+[x] Example AutoAnimate usage
 
 ###### The default README contents are below for reference:
 

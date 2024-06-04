@@ -14,7 +14,7 @@ The commands to get going are what you'd expect:
 
 ### Theming
 Feel free to theme however you wish. I highly reccomend using [Shadcn UI Theme Generator](https://zippystarter.com/tools/shadcn-ui-theme-generator) as a base.
-I have included an implimentation of the [theme provider](https://ui.shadcn.com/docs/dark-mode/vite) as described on the ShadCn website.
+I have included an implementation of the [theme provider](https://ui.shadcn.com/docs/dark-mode/vite) as described on the ShadCn website.
 
 ### Icons
 I have included `@radix-ui/react-icons` and `lucide-react` as they are reccomended and used by ShadCn.
@@ -22,11 +22,11 @@ I have included `@radix-ui/react-icons` and `lucide-react` as they are reccomend
 ## TODO:
 ###### My goal is for this repo to be an example of how to use these various tools for my own reference as well as a starting point for building apps in the future.
 
-[ ] Example of using TanStack Query
-[ ] Example Vitest Tests
-[ ] Example Usage of Framer Motion
-[ ] Example Zustand usage
-[x] Example AutoAnimate usage
+- [ ] Example of using TanStack Query
+- [ ] Example Vitest Tests
+- [ ] Example Usage of Framer Motion
+- [ ] Example Zustand usage
+- [x] Example AutoAnimate usage
 
 ###### The default README contents are below for reference:
 
